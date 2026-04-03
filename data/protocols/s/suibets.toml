@@ -1,0 +1,14 @@
+# Protocol Level Information
+title = "suibets"
+website = "https://suibets.com/"
+
+# Audits
+[[audit]]
+url = "https://suibets.com/audit-report.html"
+
+[[audit]]
+url = "https://suibets.com/formal-verification.html"
+
+# Verified Contract Source
+[[audit]]
+url = "https://suiscan.xyz/mainnet/object/0x4d83eab83defa9e2488b3c525f54fc588185cfc1a906e5dada1954bf52296e76"
